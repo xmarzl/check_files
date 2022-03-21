@@ -40,7 +40,7 @@ Critical: Storage "/opt/testing/" does not contain a file matching the pattern "
 ## Installation:
 ```sh
 cd /usr/lib/nagios/plugins
-wget https://github.com/xmarzl/check_files/blob/main/check_files.pl
+wget https://raw.githubusercontent.com/xmarzl/check_files/main/check_files.pl
 chmod 750 /usr/lib/nagios/plugins/check_files.pl
 ```
 ## 
